@@ -1,0 +1,25 @@
+html, bady #fullheight {
+min-height: 100% !important;
+height: 100%;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+@import url("https://cdn.jsdelivr.net/npm/intro.js@6.0.0/introjs.css");
+#formulaire {
+ width: 400px;
+}
+
+label {
+display: inline-block;
+min-width: 100px;
+margin: 5px 0px 0px 0px;
+padding: 3px;
+border-radius: 20px 0px 0px 20px;
+}
+
+input {
+border-radius: 0px 20px 20px 0px;
+margin: 5px 0px 0px 0px;
+padding: 3px;
+}
+
